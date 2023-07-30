@@ -2,8 +2,6 @@
 
 ![Diabetes](https://media.istockphoto.com/id/1272421423/vector/tiny-doctor-insert-sample-with-blood-into-digital-glucose-meter-to-control-diabetes-sickness.jpg?s=170667a&w=0&k=20&c=6GyC6wwx8CFoU0K4-9XMARhszSfs1LutZfREoW7ZOiE=)
 
-<img src="[https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png](https://media.istockphoto.com/id/1272421423/vector/tiny-doctor-insert-sample-with-blood-into-digital-glucose-meter-to-control-diabetes-sickness.jpg?s=170667a&w=0&k=20&c=6GyC6wwx8CFoU0K4-9XMARhszSfs1LutZfREoW7ZOiE=)" width=800 height=600 />
-
 Welcome to this Jupyter notebook project, where we embark on a journey of feature engineering to develop a machine learning model for predicting diabetes in individuals. This project emphasizes the importance of data analysis and feature engineering in building reliable predictive models. Our aim is to create a robust and interpretable model by focusing on foundational aspects such as data analysis and feature engineering, which will lead to accurate predictions.
 
 ### Dataset Information
